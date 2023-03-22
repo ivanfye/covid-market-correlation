@@ -11,7 +11,7 @@ March 2020 (Walker, 2021). We are trying to figure out if the amount of deaths a
 pandemic would have any effect on a country’s economy. To achieve this goal, we are going to compare the main
 index funds of our chosen countries, the United States of America and Hong Kong, to the amount of covid cases and
 deaths of the respective countries. We chose index funds to represent the economy as they are usually made up of
->60% of the market capitalization. At the start of the pandemic, the tech bubble seemed to have burst, recovery
+60% of the market capitalization. At the start of the pandemic, the tech bubble seemed to have burst, recovery
 seemed to be a long while away. As economic activities were halted in order to combat the pandemic, the number of
 positive cases and deaths were on the rise. Which leads to the question, **is the recovery
 of a country’s economy affected by the number of deaths or positive cases?**
