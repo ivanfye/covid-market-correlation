@@ -1,7 +1,7 @@
 # covid-market-correlation
 **Determining the correlation between the stock market and COVID cases/deaths **
 
-*The final project for Univeristy of Toronto's CSC110 course*
+*The final project for University of Toronto's CSC110 course*
 
 *Built by [Ivan Ye](https://github.com/ivanfye) and [Boaz Cheung](https://github.com/rethegreat)*
 
@@ -21,5 +21,5 @@ COVID data collected from the COVID Tracking Project for USA and the Hong Kong g
 
 Stock market data from index funds S&P 500 and Hang Seng for USA and Hong Kong respectively, containing date and closing price.
 
-## Resultes
+## Results
 For the discussion about the collected results and conclusions, please view the [project report](https://github.com/ivanfye/covid-market-correlation/blob/main/project_report.pdf) for more.
